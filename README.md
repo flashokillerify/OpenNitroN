@@ -133,13 +133,13 @@ git clone https://github.com/your-username/python_codes.git
 
 - Make your changes ( eg: Add Some python code )
 - Commit and push
-
+"""
 ```markdown
 git add .
-git commit -m 'Commit message'
+git commit -m 'Your Commit message'
 git push origin branch-name
 ```
-
+""' Only for git beginners 👆
 ## How to Participate
 
 - Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo)
